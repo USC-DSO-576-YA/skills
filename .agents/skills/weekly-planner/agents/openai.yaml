@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weekly Planner"
+  short_description: "Plan homework, interviews, and calendar commitments"
+  default_prompt: "Use $weekly-planner to plan my week around classes, homework, and interviews, then revise it with me step by step."

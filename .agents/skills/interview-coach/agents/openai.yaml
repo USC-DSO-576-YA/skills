@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interview Coach"
+  short_description: "Practice STARS, Python, SQL, and cases step by step"
+  default_prompt: "Use $interview-coach to practice one interview question at a time, wait for my answer, and help me improve before moving on."
