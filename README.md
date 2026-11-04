@@ -1,4 +1,4 @@
-# Student skills for planning and interview practice
+# Skills
 
 Two reusable Codex skills for students. Use them to plan a realistic week and practice interviews through attempts, feedback, and revisions. Both work one step at a time and wait for your input.
 
@@ -15,12 +15,12 @@ These are instruction-based skills, not a standalone app. They use your existing
 
    ```text
    cd ~/dso576
-   git clone https://github.com/USC-DSO-576-YA/student-skills.git
-   cd student-skills
+   git clone https://github.com/USC-DSO-576-YA/skills.git
+   cd skills
    ```
 
    If you do not have `~/dso576`, use another existing folder you prefer.
-2. Open the cloned `student-skills` folder as a project in Codex, or open it in VS Code and use Codex there. CLI users can run `codex` from this folder.
+2. Open the cloned `skills` folder as a project in Codex, or open it in VS Code and use Codex there. CLI users can run `codex` from this folder.
 3. Start a new chat and use one of the prompts below. The repo's `.agents/skills` folder makes its skills discoverable when you work in this repository. In the CLI or IDE, type `$` to select a skill or use `/skills`. If a skill does not appear, restart Codex.
 4. Answer the first question. The skill should wait for your response before advancing.
 
@@ -28,7 +28,7 @@ To use the skills in other projects, ask Codex:
 
 ```text
 Use skill-installer to install weekly-planner and interview-coach from
-https://github.com/USC-DSO-576-YA/student-skills.
+https://github.com/USC-DSO-576-YA/skills.
 Their folders are .agents/skills/weekly-planner and .agents/skills/interview-coach.
 Do not overwrite an existing customized skill without showing me the differences.
 ```
